@@ -9,10 +9,12 @@ Very important point:
 
 All resources here are channeled into issues. So if you actually came here for
 finding information which actually is not here, you will have to look at the
-.. _Issues list: https://github.com/c-base/discord/issues
+issues list:
+https://github.com/c-base/discord/issues
 
-If your hubris and/or pineal gland is large enough, you can try
-.. _submitting new issues: https://github.com/c-base/discord/issues/new
+If your hubris and/or pineal gland is large enough, you can try submitting new
+issues:
+https://github.com/c-base/discord/issues/new
 
 Reason
 ======
