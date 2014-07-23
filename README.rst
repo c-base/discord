@@ -4,6 +4,7 @@ Space Discordianism Refined
 This is not about discordianism, because it is about space discordianism.
 
 Very important point:
+
 * Handle the data with care
 * Make love to the meta
 
@@ -30,7 +31,7 @@ Who
 We make meta data porn:
 
 * Pope 'riot' the indecisive
-* Mope 'lilly' the forgetfulness
+* Mope 'lilly' the forgetful
 * Pope 'jeedi' the has-to-add-his-pope-name-here
 
 Missing?
